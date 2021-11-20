@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\bin\Debug\kursProj5semNET35.exe
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\bin\Debug\kursProj5semNET35.pdb
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.Form1.resources
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.Properties.Resources.resources
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.exe
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.pdb
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.FormCPU.resources
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.FormRAM.resources
