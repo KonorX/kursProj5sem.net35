@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Management;
+using System.Threading;
 
 namespace kursProj5semNET35
 {
@@ -123,6 +124,8 @@ namespace kursProj5semNET35
             formRAM.ShowDialog();
         }
 
+        
+
         private void button2_Click(object sender, EventArgs e)
         {
             CPUInfo.Cores.Clear();
@@ -150,6 +153,12 @@ namespace kursProj5semNET35
                     FormCPU formCPU = new FormCPU();
             formCPU.ShowDialog();
                     
+        }
+
+        private void дискToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormMem mem=new FormMem();
+            mem.ShowDialog();
         }
     }
 }

@@ -9,3 +9,4 @@ C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursPro
 C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.pdb
 C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.FormCPU.resources
 C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.FormRAM.resources
+C:\Users\User\source\repos\kursProj5semNET35\kursProj5semNET35\obj\Debug\kursProj5semNET35.FormMem.resources

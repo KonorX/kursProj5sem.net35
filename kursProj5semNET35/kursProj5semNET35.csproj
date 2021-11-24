@@ -57,6 +57,12 @@
     <Compile Include="FormCPU.Designer.cs">
       <DependentUpon>FormCPU.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormMem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMem.Designer.cs">
+      <DependentUpon>FormMem.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormRAM.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +76,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormCPU.resx">
       <DependentUpon>FormCPU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMem.resx">
+      <DependentUpon>FormMem.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormRAM.resx">
       <DependentUpon>FormRAM.cs</DependentUpon>
